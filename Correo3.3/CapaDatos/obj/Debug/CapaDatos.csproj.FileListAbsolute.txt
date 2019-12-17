@@ -1,0 +1,25 @@
+C:\Users\ezequ\source\repos\Correo3.3\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ezequ\source\repos\Correo3.3\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ezequ\source\repos\Correo3.3\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\ezequ\source\repos\Correo3.3\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ezequ\source\repos\Correo3.3\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ezequ\Desktop\Correo3.3\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ezequ\Desktop\Correo3.3\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ezequ\Desktop\Correo3.3\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\ezequ\Desktop\Correo3.3\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ezequ\Desktop\Correo3.3\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ezequ\Desktop\Correo3.3\CapaDatos\bin\Debug\itextsharp.dll
+C:\Users\ezequ\Desktop\Correo3.3\CapaDatos\bin\Debug\itextsharp.pdfa.dll
+C:\Users\ezequ\Desktop\Correo3.3\CapaDatos\bin\Debug\itextsharp.xtra.dll
+C:\Users\ezequ\Desktop\Correo3.3\CapaDatos\bin\Debug\itextsharp.xml
+C:\Users\ezequ\Desktop\Correo3.3\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\ezequ\Documents\Analista de sistemas Año 2019\Polverini 2019\Correo3.3\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ezequ\Documents\Analista de sistemas Año 2019\Polverini 2019\Correo3.3\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ezequ\Documents\Analista de sistemas Año 2019\Polverini 2019\Correo3.3\CapaDatos\bin\Debug\itextsharp.dll
+C:\Users\ezequ\Documents\Analista de sistemas Año 2019\Polverini 2019\Correo3.3\CapaDatos\bin\Debug\itextsharp.pdfa.dll
+C:\Users\ezequ\Documents\Analista de sistemas Año 2019\Polverini 2019\Correo3.3\CapaDatos\bin\Debug\itextsharp.xtra.dll
+C:\Users\ezequ\Documents\Analista de sistemas Año 2019\Polverini 2019\Correo3.3\CapaDatos\bin\Debug\itextsharp.xml
+C:\Users\ezequ\Documents\Analista de sistemas Año 2019\Polverini 2019\Correo3.3\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\ezequ\Documents\Analista de sistemas Año 2019\Polverini 2019\Correo3.3\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\ezequ\Documents\Analista de sistemas Año 2019\Polverini 2019\Correo3.3\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ezequ\Documents\Analista de sistemas Año 2019\Polverini 2019\Correo3.3\CapaDatos\obj\Debug\CapaDatos.pdb
